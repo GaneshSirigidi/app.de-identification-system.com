@@ -40,7 +40,7 @@ A full-stack prototype that automatically detects and redacts Protected Health I
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/GaneshSirigidi/app.de-identification-system.com.git
 cd automated-de-identification-system
 
 # 2. Create your environment file
